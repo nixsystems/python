@@ -1,2 +1,2 @@
 # python
-Learning Git/GitHub using pythong programming.
+Learning Git/GitHub using python programming.
